@@ -79,7 +79,7 @@ int main() {
 	std::cout << buffer << std::endl;
 	std::cout << ifs.tellg() << std::endl;
 }
-``
+```
 
 **Задача 3:** Да се напише функция, която намира големината на файл.
 
