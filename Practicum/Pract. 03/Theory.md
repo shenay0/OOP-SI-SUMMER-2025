@@ -130,6 +130,7 @@ Point arr[SIZE] = {{1, 2}, {4, 5}, {8, 3}};
 
 ofs.write((const char*)arr, SIZE * sizeof(Point));
 ifs.read((char*)arr, SIZE * sizeof(Point));
+```
 
 # Теория `std::stringstream`:
 
